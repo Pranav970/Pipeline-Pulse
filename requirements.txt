@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+kafka-python
+pandas
+python-dotenv
